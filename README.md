@@ -11,15 +11,6 @@ Notes on learning the lowcode-engine. For more information, please visit the off
 {
   "proxy": [
     [
-      "http://localhost:5557/vue-simulator-renderer.js",
-      "http://localhost:5559/vue-simulator-renderer.js"
-      // "http://localhost:8000/vue-simulator-renderer.js"
-    ],
-    [
-      "http://localhost:5557/vue-simulator-renderer.css",
-      "http://localhost:5559/vue-simulator-renderer.css"
-    ],
-    [
       "http://localhost:5577/js/vue-simulator-renderer.js",
       "http://localhost:5579/vue-simulator-renderer.js"
     ],
@@ -27,21 +18,13 @@ Notes on learning the lowcode-engine. For more information, please visit the off
       "http://localhost:5577/js/vue-simulator-renderer.css",
       "http://localhost:5579/vue-simulator-renderer.css"
     ],
-    [
-      "http://localhost:5557/dist/CustomerDetailComponents.umd.min.js",
-      "http://localhost:8000/dist/CustomerDetailComponents.umd.min.js"
-    ],
-    [
-      "http://localhost:5557/dist/CustomerDetailComponents.css",
-      "http://localhost:8000/dist/CustomerDetailComponents.css"
-    ],
     // [
-    //   "http://localhost:8000/vue-simulator-renderer.js",
-    //   "http://localhost:5559/vue-simulator-renderer.js"
-    // ]
-    // [
-    //   "https://static.wshoto.com/fe/lowcode/libs/lowcode-engine-ext/1.0.4-beta.1/dist/js/engine-ext.js",
+    //   "https://unpkg.com/@cdlab996/lowcode-engine-ext-vue@1.0.6-beta.26.1/dist/js/engine-ext.js",
     //   "http://localhost:4008/js/engine-ext.js"
+    // ],
+    // [
+    //   "https://unpkg.com/@cdlab996/lowcode-engine-ext-vue@1.0.6-beta.26.1/dist/css/engine-ext.css",
+    //   "http://localhost:4008/css/engine-ext.css"
     // ],
     // [
     //   "https://alifd.alicdn.com/npm/@alilc/lowcode-engine-ext@1.0.5/dist/js/engine-ext.js",
